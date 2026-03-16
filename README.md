@@ -1,8 +1,7 @@
 # Exercícios de fixação – Algoritmos com seleção PARTE 1
 
 ## A partir dos enunciados abaixo, elabore os algoritmos utilizando Linguagem de Programação C.
-
-Elabore um algoritmo para ler dois números e apresentar a diferença do maior número pelo menor número.
+### Elabore um algoritmo para ler dois números e apresentar a diferença do maior número pelo menor número.
 ---
 Elabore um algoritmo que leia dois números. Se os dois números forem iguais, o programa deverá imprimir a mensagem: “Números iguais!” e encerrar a execução. Caso contrário, imprimir os dois números informados.
 ---
