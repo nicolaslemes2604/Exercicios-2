@@ -11,8 +11,11 @@ int main(){
 
   if(n1 > n2){
     dif = n1 - n2;
+    printf("A diferença do maior num %f pelo menor %f eh %f", n1, n2, dif);
   }else{
     dif = n2 - n1;
+    printf("A diferença do maior num %f pelo menor %f eh %f", n1, n2, dif);
   }
+
   return 0;
 }
