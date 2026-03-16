@@ -1,8 +1,8 @@
 # Exercícios de fixação – Algoritmos com seleção PARTE 1
 
 ## A partir dos enunciados abaixo, elabore os algoritmos utilizando Linguagem de Programação C.
-### Elabore um algoritmo para ler dois números e apresentar a diferença do maior número pelo menor número.
----
+## Elabore um algoritmo para ler dois números e apresentar a diferença do maior número pelo menor número.
+
 Elabore um algoritmo que leia dois números. Se os dois números forem iguais, o programa deverá imprimir a mensagem: “Números iguais!” e encerrar a execução. Caso contrário, imprimir os dois números informados.
 ---
 Elabore um algoritmo que solicite ao usuário um número. O algoritmo deverá informar se o número informado é divisível por 5. DICA: para saber se um número é divisível por 5 precisamos saber se o resto da divisão do número por 5 é igual a zero. No nosso material, temos a explicação do comando de resto da divisão. 
